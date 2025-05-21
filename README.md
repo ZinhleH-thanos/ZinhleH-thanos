@@ -1,36 +1,59 @@
-# Hi, I'm Zinhle Elizabeth Hlongwane!
+# Hi, I'm Zinhle Elizabeth Hlongwane! 💫
 
-I'm an aspiring **AI Engineer** based in Johannesburg, South Africa. I'm currently building my technical foundation through:
+I'm an aspiring **AI Engineer** based in Johannesburg, South Africa — passionate about building intelligent systems that solve real-world problems using data, machine learning, and creativity.
 
-- ✅ IBM Full-Stack Developer Certificate *(In Progress)*
-- ✅ Google Data Analytics Certificate *(In Progress)*
-- ✅ Self-taught **Python basics** for machine learning
-- ✅ **SheCodes Plus AI Workshop Certificate** *(Completed)*  
-- ✅ **SheCodes Foundation Student** *(Ongoing)*
+---
 
-## 🧠 Why I’m Learning So Much:
-Every course and project I complete is a step toward one clear goal: **to work in AI and machine learning**.  
-I'm passionate about using code to solve real problems with data and intelligence.  
-Thanks to **SheCodes**, I’ve been able to explore AI APIs and web development through real-world, creative projects designed to empower women in tech.
+## 👩🏽‍💻 What I’m Working On
 
-## 🔧 Tech I'm Using:
-- **Languages**: Python (basics), JavaScript, SQL, HTML/CSS
-- **Tools**: Excel, GitHub, APIs, VS Code
-- **Skills**: Web Development, AI Integration, Data Analysis, Visualization
+To prepare for a career in AI, I’m currently:
+
+- 🧠 Learning with the **SheCodes Foundation**, where I’m gaining hands-on coding experience and building real projects with HTML, CSS, JavaScript, APIs, and AI tools.
+- 🎓 Completing the **IBM Full-Stack Developer Certificate** *(In Progress)*
+- 📊 Studying data analysis through the **Google Data Analytics Certificate** *(In Progress)*
+- 🐍 Teaching myself **Python**, with a focus on machine learning and NLP (Natural Language Processing)
+
+---
+
+## 🔧 Tech & Tools
+
+- **Languages**: Python (Basics), JavaScript, SQL, HTML/CSS
+- **Tools**: Git, GitHub, APIs, Excel, Visual Studio Code
+- **Core Skills**: Web Development, Data Analysis, API Integration, AI Exploration
+
+---
 
 ## 📁 Featured Projects
-- [Study Hours vs Final Grade](https://github.com/ZinhleH-thanos/study-hours-vs-final-grade):  
-  Used Excel & SQL to find patterns in academic performance.
-  
-- [Girly Weather App](https://github.com/ZinhleH-thanos/girly-weather-app):  
-  Built a fun weather app with live API data and animations using JavaScript.
 
-- [Web Development Portfolio](https://github.com/ZinhleH-thanos/Web-Development-Portfolio):  
-  Early frontend projects from my web dev journey.
+- [🌦 Girly Weather App](https://github.com/ZinhleH-thanos/girly-weather-app):  
+  A fun and visually engaging weather app using live API data, JavaScript, and animations. Built during my SheCodes workshop.
 
-- [Kawaii Affirmation Generator](https://github.com/ZinhleH-thanos/kawaii-affirmation-generator):  
-  A Python project that gives random AI-themed affirmations — built as part of my SheCodes Plus AI Workshop.
+- [📊 Study Hours vs Final Grade](https://github.com/ZinhleH-thanos/study-hours-vs-final-grade):  
+  A data project using Excel and SQL to analyze how study hours impact student performance.
 
-## 🌍 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/zinhle-hlongwane-872354209)
+- [🌸 Kawaii Affirmation Generator](https://github.com/ZinhleH-thanos/kawaii-affirmation-generator):  
+  A motivational Python program that delivers kawaii-style affirmations — built to combine creativity and code during my AI learning journey.
 
+- [💻 Web Development Portfolio](https://github.com/ZinhleH-thanos/Web-Development-Portfolio):  
+  A showcase of my early HTML, CSS, and JavaScript projects.
+
+---
+
+## 🧠 Focus Areas
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Natural Language Processing (NLP)
+- Full-Stack Development
+- Data-Driven Problem Solving
+
+---
+
+## 🌍 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/zinhle-hlongwane-872354209)  
+- Always open to collaborations, internships, and early-career opportunities in AI and tech.
+
+---
+
+> *“Let’s build the future — one intelligent system at a time.”*
