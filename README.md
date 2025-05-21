@@ -31,7 +31,7 @@ To prepare for a career in AI, I’m currently:
 - [📊 Study Hours vs Final Grade](https://github.com/ZinhleH-thanos/study-hours-vs-final-grade):  
   A data project using Excel and SQL to analyze how study hours impact student performance.
 
-- [🌸 Kawaii Affirmation Generator](https://github.com/ZinhleH-thanos/kawaii-affirmation-generator):  
+- [🌸 Kawaii Affirmation Generator](https://github.com/ZinhleH-thanos/affirmation-generator):  
   A motivational Python program that delivers kawaii-style affirmations — built to combine creativity and code during my AI learning journey.
 
 - [💻 Web Development Portfolio](https://github.com/ZinhleH-thanos/Web-Development-Portfolio):  
