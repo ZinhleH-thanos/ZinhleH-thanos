@@ -9,7 +9,7 @@ I'm an aspiring **AI Engineer** based in Johannesburg, South Africa — passiona
 To prepare for a career in AI, I’m currently:
 
 - 🧠 Learning with the **SheCodes Foundation**, where I’m gaining hands-on coding experience and building real projects with HTML, CSS, JavaScript, APIs, and AI tools.
-- 🎓 Completing the **IBM Full-Stack Developer Certificate** *(In Progress)*
+- 🎓 Completing the **IBM Generative AI Engineering Professional Certificate** *(In Progress)*
 - 📊 Studying data analysis through the **Google Data Analytics Certificate** *(In Progress)*
 - 🐍 Teaching myself **Python**, with a focus on machine learning and NLP (Natural Language Processing)
 
@@ -44,7 +44,6 @@ To prepare for a career in AI, I’m currently:
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 - Natural Language Processing (NLP)
-- Full-Stack Development
 - Data-Driven Problem Solving
 
 ---
