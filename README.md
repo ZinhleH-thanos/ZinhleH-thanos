@@ -2,7 +2,7 @@
 
 I'm an aspiring **AI Engineer** based in Johannesburg, South Africa — passionate about building intelligent systems that solve real-world problems using data, machine learning, and creativity.
 
-**Exciting Update:** 🎓 Accepted to WeThinkCode_'s Software Engineering program (Starting September 2024)
+**Exciting Update:** 🎓 Accepted to WeThinkCode_'s Software Engineering program (Starting September 2025)
 
 ---
 
