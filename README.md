@@ -27,7 +27,7 @@ To prepare for my tech career, I'm currently:
 ---
 
 ## 🏆 Recent Achievements
-- ✅ Completed Harvard's CS50P with projects in:  
+- ✅ Completing Harvard's CS50P with projects in:  
   - Data validation (`plates.py`)  
   - Algorithm design (`twttr.py`)  
   - System logic (`bank.py`, `fuel.py`)  
@@ -37,13 +37,21 @@ To prepare for my tech career, I'm currently:
 
 ---
 
-## 📁 Featured Projects
+## 📁 Featured Projects  
 
-| Project | Description | Tech |  
-|---------|-------------|------|  
-| [🌦 Girly Weather App](https://github.com/ZinhleH-thanos/girly-weather-app) | API-driven weather interface | JavaScript |  
-| `plates.py` | License plate validator | Python |  
-| [🌸 Affirmation Generator](https://github.com/ZinhleH-thanos/affirmation-generator) | NLP-inspired motivator | Python |  
+- [🌦 Girly Weather App](https://github.com/ZinhleH-thanos/girly-weather-app):  
+  A fun and visually engaging weather app using live API data, JavaScript, and animations. Built during my SheCodes workshop.
+
+- [📊 Study Hours vs Final Grade](https://github.com/ZinhleH-thanos/study-hours-vs-final-grade):  
+  A data project using Excel and SQL to analyze how study hours impact student performance.
+
+- [🌸 Kawaii Affirmation Generator](https://github.com/ZinhleH-thanos/affirmation-generator):  
+  A motivational Python program that delivers kawaii-style affirmations — built to combine creativity and code during my AI learning journey.
+
+- [💻 Web Development Portfolio](https://github.com/ZinhleH-thanos/Web-Development-Portfolio):  
+  A showcase of my early HTML, CSS, and JavaScript projects.
+
+*(CS50P projects like `plates.py` and `bank.py` available here on GitHub)*   
 
 ---
 
